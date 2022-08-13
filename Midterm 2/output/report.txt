@@ -1,0 +1,48 @@
+Report on Input File Analyzed
+---------------------------
+
+The total number of words in the file is :57
+The number of times each word occured was:
+python---> 4  is---> 2  easy---> 1  to---> 2  learn---> 1  and---> 3  enjoyable---> 1  like---> 1  other---> 1  languages---> 1  provides---> 1  a---> 1  complete---> 1  set---> 1  of---> 3  control---> 2  flow---> 1  elements---> 2  including---> 1  while---> 1  for---> 1  loops---> 1  conditionals---> 1  in---> 1  the---> 2  indent---> 1  important---> 1  things---> 1  can---> 1  easily---> 1  go---> 1  wrong---> 1  if---> 1  you---> 1  do---> 1  not---> 1  follow---> 1  indentation---> 2  uses---> 1  level---> 1  group---> 1  blocks---> 1  code---> 1  with---> 1  
+The most common word occured 4 times and is listed below: 
+
+python
+
+The least common word occured 1 time(s) and is listed below: 
+easy
+learn
+enjoyable
+like
+other
+languages
+provides
+a
+complete
+set
+flow
+including
+while
+for
+loops
+conditionals
+in
+indent
+important
+things
+can
+easily
+go
+wrong
+if
+you
+do
+not
+follow
+uses
+level
+group
+blocks
+code
+with
+
+
